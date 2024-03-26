@@ -21,7 +21,9 @@ function App() {
         </div>
 
       </div>
-      
+      <div id="content">
+          <BusinessList />
+      </div>
     </div>
   );
 }

@@ -1,0 +1,62 @@
+#pizza{
+    height:370px;
+    width:300px;
+   
+}
+#name{
+    font-size: medium;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 30px;
+}
+#thirdcontext{
+    display: flex;
+    margin: 30px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+#place{
+    font-size: small;
+    font-weight: 200;
+    text-align: left;
+}
+#ratingsColumn{
+    text-align: right;
+}
+#type{
+    font-size: medium;
+    text-transform: uppercase;
+    color: orange;
+    font-weight: 600;
+    font-family:sans-serif
+}
+#ratings{
+    font-size: small;
+    color: orange;
+    font-weight: 500;
+}
+#reviewcount{
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+}
+    
+
+#item{
+    margin:30px;
+}
+
+#itemImage{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+   
+}
+
+
+#itemList{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}

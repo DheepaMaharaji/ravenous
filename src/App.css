@@ -119,3 +119,9 @@
   width: 500px;
 
 }
+#content{
+  height: vh;
+  width: vw;
+  margin: 50px;
+  
+}
